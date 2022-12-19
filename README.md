@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashutosh Kumar Giri
-- 👀 I’m interested in Web Development And Data Structure
+- 👀 I’m interested in Web Development and Data Structure and Algorithm
 - 🌱 I’m currently pursuing B.Tech in Computer Science from KIET Group of Institutions Ghaziabad
 
 <!---
