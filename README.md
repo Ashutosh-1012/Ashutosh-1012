@@ -1,12 +1,6 @@
 <h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Ashutosh Kumar Giri</h1>
 <h3 align="center">A Passionate JavaScript Developer from India 🚀</h3>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-1012&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=Ashutosh-1012&theme=tokyonight" />
-</p>
-
 <h3 align="left">🔥 My GitHub Contributions :</h3>
 
 <div align="center">
