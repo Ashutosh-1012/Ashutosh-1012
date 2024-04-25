@@ -1,20 +1,49 @@
-<h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Ashutosh Kumar Giri</h1>
-<h3 align="center">A Passionate JavaScript Developer from India 🚀</h3>
+<!-- Banner -->
+<img align="center" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/banner.png" alt="Banner that says Ashutosh Kumar Giri - MERN Stack Developer alongside a cartoon illustration of Ashutosh">
 
-<h3 align="left">🔥 My GitHub Contributions :</h3>
+<!-- Introduction -->
+### Hi there, I'm Ashutosh Kumar Giri, a MERN Stack Developer 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-1012&layout=compact&theme=tokyonight" height="195" alt="top languages"  />
-</div>
+I'm a passionate self-taught Full Stack Web Developer from India, specializing in MERN (MongoDB, Express.js, React.js, Node.js) stack development. I enjoy building scalable and interactive web applications that solve real-world problems.
 
-<h3 align="left">🚀 What I'm Working On :</h3>
+- 🌱 - 📚 I'm also honing my skills in Data Structures and Algorithms and pursuing my B.Tech prefinal year studies.
+- 👯 I’m open to collaborating on MERN stack projects and open-source initiatives.
+- 💬 Let's discuss web development, MERN stack, or anything tech-related.
 
-<ul>
-  <li>Building dynamic web applications with the latest JavaScript technologies.</li>
-  <li>Contributing to open-source projects to foster a collaborative coding community.</li>
-  <li>Exploring new frameworks and libraries to enhance development efficiency and user experience.</li>
-  <li>Learning and implementing best practices in software development for scalable and maintainable code.</li>
-</ul>
+<!-- Technologies and Tools -->
+### Languages and Tools:
+
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/mongodb.png" />
+<img align="left" alt="Express.js" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/express.png" />
+<img align="left" alt="React.js" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/nodejs.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/html5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/css3.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/git.png" />
+<img align="left" alt="VS Code" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/vscode.png" />
+
+<br />
+<br />
+
+<!-- GitHub Stats -->
+### GitHub Stats:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-1012&show_icons=true&theme=dark" alt="Ashutosh Kumar Giri's GitHub Stats">
+
+<!-- Connect with me -->
+### Connect with me:
+
+[```
+
+```markdown
+<img align="left" alt="Twitter" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/twitter.png" /> [Twitter](https://twitter.com/ashutosh_1012)
+<br />
+<img align="left" alt="LinkedIn" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/linkedin.png" /> [LinkedIn](https://www.linkedin.com/in/ashutosh-kumar-giri-1012/)
+<br />
+<img align="left" alt="Instagram" width="26px" src="https://github.com/Ashutosh-1012/Ashutosh-1012/raw/master/assets/instagram.png" /> [Instagram](https://www.instagram.com/ashutosh_1012/)
+<br />
+
 
 <h3 align="left">🌱 Technologies & Tools :</h3>
 
